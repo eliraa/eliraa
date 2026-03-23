@@ -4,7 +4,14 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 My name is Elena, and I'm Senior QA Engineer with 10+ years of experience in regulated and iGaming-driven platforms.
 ------------------
 
-* 🚀  I'm currently working on [Building and refining a risk-based Playwright automation framework for transaction-driven workflows.](https://github.com/eliraa/LinkedInChallenge)
+* 🚀  I'm currently expanding into automation with Playwright (TypeScript), focusing on building scalable test frameworks and validating end-to-end flows.
+- UI + API validation
+- Backend response verification
+- Page Object Model structure
+- Test organization and scalability
+
+🔗 [View Project]https://github.com/eliraa/PlaywrightDemo)
+
 * 🧠  I'm currently learning Advanced features, API testing with Playwirght, AI bots and Automation, N8N
 * 🖥️  See my portfolio at [Notion](http://www.notion.so/Senior-QA-Lead-Portfolio-30b830cc4ad98067aaccf9c14d2ab35d)
 
