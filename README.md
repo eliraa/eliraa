@@ -10,7 +10,7 @@ My name is Elena, and I'm Senior QA Engineer with 10+ years of experience in reg
 - Page Object Model structure
 - Test organization and scalability
 
-🔗 [View Project]https://github.com/eliraa/PlaywrightDemo)
+🔗 [View Project](https://github.com/eliraa/PlaywrightDemo)
 
 * 🧠  I'm currently learning Advanced features, API testing with Playwirght, AI bots and Automation, N8N
 * 🖥️  See my portfolio at [Notion](http://www.notion.so/Senior-QA-Lead-Portfolio-30b830cc4ad98067aaccf9c14d2ab35d)
